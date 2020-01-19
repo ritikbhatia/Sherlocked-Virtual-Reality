@@ -5,8 +5,8 @@
   * The entire movement, interaction, inventory system and every intricacy of the game was coded manually. We brainstormed everything ranging from the storyline to the clues and the overall mechanics of the game.
 
 ## To test the application, you'll need:
-  > [Google Cardboard](https://arvr.google.com/cardboard/)
-  > Android smartphone (API level >= 19)
+  * [Google Cardboard](https://arvr.google.com/cardboard/)
+  * Android smartphone (API level >= 19)
   
 ## Working
 
