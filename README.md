@@ -23,3 +23,9 @@
   1. Setting up a **virtual inventory** which can be viewed at some part of the screen.
   2. Initialising a **timer** to record the times in which different users finish the task.
   3. Implementing **multi-player VR levels** which involve different rooms and simultanous actions for success.
+
+## Authors
+ 1. [Arjun Singh](https://github.com/arjunmann73)
+ 2. [Arumugam Ramaswamy](https://github.com/arumugam666)
+ 3. [Aishik Nagar]()
+ 4. [Ritik Bhatia](https://github.com/ritikbhatia)
