@@ -4,16 +4,12 @@
   * The project was completely developed in **Unity (2019.2.18f1)**, generated apk works with smartphones using google cardboard. Apart from  the above, android sdk & java dk were also required.
   * The entire movement, interaction, inventory system and every intricacy of the game was coded manually. We brainstormed everything ranging from the storyline to the clues and the overall mechanics of the game.
 
+## Demo
+[Link to video](https://www.youtube.com/watch?v=tvJSGV7zPiE)
 ## To test the application, you'll need:
   * [Google Cardboard](https://arvr.google.com/cardboard/)
   * Android smartphone (API level >= 19)
-  
-## Working
-
-
-
-
-
+ 
 ## Installation 
   1. Clone the repository and transfer the apk to your android smartphone, make sure **android version is 4.4 + (KitKat)**.
   2. Install the application on your phone and launch it.
